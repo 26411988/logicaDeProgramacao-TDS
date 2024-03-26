@@ -15,7 +15,7 @@ int resto = num1 % num2;  // resto da divisao
 
 // Imprimindo
 
-printf ("soma: %d + %d = %d\n", num1,num2, soma");
+printf ("soma: %d + %d = %d\n", num1,num2, soma);
 printf ("subtracao: %d - %d + %d\n", num1,num2 ,subtracao);
 printf ("multiplicacao: %d * %d = %d/n", num1,num2, multiplicacao);
 printf ("divisao: %d / %d = %d (quociente), resto %d\n", num1,num2,divisao,resto);
